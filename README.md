@@ -3,6 +3,8 @@ awesome quesition and problem for chatgpt
 
 ---
 
+- https://chatgptmirror.com/chat
+- https://lzw.me/x/chatgpt-sites/
 - https://chatgpts-mu.vercel.app/
 - https://freechatgpt.lol/
 - https://chatgpt.ddiu.me/
