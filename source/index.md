@@ -11,6 +11,13 @@
 ```{toctree}
 :maxdepth: 2
 :caption: 目录
+philosophy/index.md
+healthy/index.md
+learn/index.md
+logic/index.md
+thinking/index.md
+time/index.md
+paper/index.md
 ```
 
 
