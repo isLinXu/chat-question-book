@@ -24,9 +24,9 @@ awesome quesition and problem for chatgpt
 
 |                             人生                             |                             健康                             |                             学习                             |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![](https://user-images.githubusercontent.com/59380685/271551068-9341e0f6-1115-42f5-93fd-ca969fdc4779.png) | ![](https://user-images.githubusercontent.com/59380685/271551884-2e8b160e-e445-4212-ba1a-4672e4dc9225.png) | ![](https://user-images.githubusercontent.com/59380685/271551916-0b5ae464-ee02-4c67-b359-cf33ba6f0f7b.png) |
+| [![](https://user-images.githubusercontent.com/59380685/271551068-9341e0f6-1115-42f5-93fd-ca969fdc4779.png)](https://islinxu.github.io/chat-question-book/philosophy/Lift.html) | [![](https://user-images.githubusercontent.com/59380685/271551884-2e8b160e-e445-4212-ba1a-4672e4dc9225.png)](https://islinxu.github.io/chat-question-book/healthy/index.html) | [![](https://user-images.githubusercontent.com/59380685/271551916-0b5ae464-ee02-4c67-b359-cf33ba6f0f7b.png)](https://islinxu.github.io/chat-question-book/learn/index.html) |
 |                             逻辑                             |                             思维                             |                             时间                             |
-| ![](https://user-images.githubusercontent.com/59380685/273385082-5b133a06-4dd8-4465-940a-84b872e840fa.png) | ![](https://user-images.githubusercontent.com/59380685/271552166-9f012f18-8556-4fba-8634-a986a8654186.png) | ![](https://user-images.githubusercontent.com/59380685/271552349-87a982e5-b2d3-47a8-93d9-f2ebe45b4c09.png) |
+| [![](https://user-images.githubusercontent.com/59380685/273385082-5b133a06-4dd8-4465-940a-84b872e840fa.png)](https://islinxu.github.io/chat-question-book/logic/index.html) | [![](https://user-images.githubusercontent.com/59380685/271552166-9f012f18-8556-4fba-8634-a986a8654186.png)](https://islinxu.github.io/chat-question-book/thinking/index.html) | [![](https://user-images.githubusercontent.com/59380685/271552349-87a982e5-b2d3-47a8-93d9-f2ebe45b4c09.png)](https://islinxu.github.io/chat-question-book/time/index.html) |
 
 ---
 
